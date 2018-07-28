@@ -1,4 +1,6 @@
 # or_parabolicsmoother #
+* Source from https://github.com/personalrobotics/or_parabolicsmoother and http://motion.pratt.duke.edu/software.html
+
 ## An OpenRAVE Plugin for Parabolic Smoothing ##
 
 This is an OpenRAVE wrapper to a fast smoothing algorithm for robot manipulator
